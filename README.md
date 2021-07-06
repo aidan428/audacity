@@ -1,3 +1,8 @@
+##Forked from Temporary Audacity Project
+##Changes are private to prevent CLOT detect
+##Checkout original project for build instructions
+
+
 Fork of audacity/audacity
 =========================
 
